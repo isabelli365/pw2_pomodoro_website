@@ -1,0 +1,25 @@
+{
+  "name": "pw2_pomodoro_website",
+  "version": "1.0.0",
+  "description": "Website de timer para estudantes que utiliza o modelo pomodoro",
+  "main": "index.js",
+  "scripts": {
+    "test": "teste"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isabelli365/pw2_pomodoro_website.git"
+  },
+  "keywords": [
+    "[pomodoro]",
+    "[timer]",
+    "[estudos]",
+    "[temporizador]"
+  ],
+  "author": "Isabelli de Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isabelli365/pw2_pomodoro_website/issues"
+  },
+  "homepage": "https://github.com/isabelli365/pw2_pomodoro_website#readme"
+}
